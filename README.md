@@ -14,7 +14,7 @@ Je suis un développeur JavaScript freelance passionné par les technologies web
 - [arcoden](https://arcoden.netlify.app) : Un blog en cours de développement
 - [manuscria](https://t.me/dooro93) : Une application d'intélligence artificielle de conversion de texte manuscrite (en cours d'apprentissage)
 
-## Stickers
+## Technologies
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
