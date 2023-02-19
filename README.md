@@ -33,7 +33,7 @@ Je suis un développeur JavaScript freelance passionné par les technologies web
 
 ## Contact
 
-📫 Contactez-moi sur [![Linkedin Badge](https://img.shields.io/badge/-Nom%20Prénom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bit.ly/dooro-in)](https://bit.ly/dooro-in)
+📫 Contactez-moi sur [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bit.ly/dooro-in)](https://bit.ly/dooro-in)
 , par [email](dooro.mah@gmail.com) ou sur [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/776280898)
 .
 
