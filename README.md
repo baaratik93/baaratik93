@@ -1,6 +1,5 @@
 # Salut, je suis Mamadou Hamady THIAM 👋
 
-![Header](https://github.com/baaratik93/baaratik93/blob/main/header.png?raw=true)
 
 Je suis un développeur JavaScript freelance passionné par les technologies web modernes et la création d'applications performantes et faciles à utiliser. 
 
