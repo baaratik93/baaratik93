@@ -1,0 +1,797 @@
+{
+    "fr": {
+        "menus": [
+            {
+                "title": "Accueil",
+                "ref": "home"
+            },
+            {
+                "title": "À propos",
+                "ref": "about"
+            },
+            {
+                "title": "Compétences",
+                "ref": "skills"
+            },
+            {
+                "title": "Projets",
+                "ref": "projects"
+            },
+            {
+                "title": "Contact",
+                "ref": "contact"
+            }
+        ],
+        "hero": {
+            "name": "Mamadou Hamady THIAM",
+            "initials": "M. H. THIAM",
+            "age": 1993,
+            "start": 2023,
+            "profession": [
+                "Passionné en Data Engineering",
+                "Analyste de données en fraude confirmé",
+                "Développeur web full stack confirmé"
+            ],
+            "location": "Dakar, Sénégal",
+            "email": "dooro@thiamdooro.pro",
+            "phone": "+221 77 628 08 98",
+            "linkedin": "https://www.linkedin.com/in/dooro/",
+            "github": "https://github.com/baaratik93",
+            "whoiam": "Je suis un développeur logiciel passionné avec une solide expérience en développement web full stack et en data engineering. J’aime résoudre des problèmes complexes et créer des solutions efficaces et évolutives. Mon expertise inclut les frameworks JavaScript modernes, l’analyse de données et la création d’applications robustes qui améliorent l’expérience utilisateur.",
+            "summary": "Je suis passionné par l’utilisation de la technologie pour résoudre des problèmes réels et par l’amélioration continue de mes compétences en développement logiciel. Je suis motivé à contribuer à des projets innovants et à collaborer avec des professionnels partageant la même vision.",
+            "profilePicture": "https://media.licdn.com/dms/image/v2/D4E03AQEw5GZeKxCu_g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1722370004632?e=1758153600&v=beta&t=rSS6ZSbTmtq7eOmUS2T_eqjJBRpalNZqdRmMg1lXp5o",
+            "profilePictureAlt": "https://firebasestorage.googleapis.com/v0/b/arcoden-f732e.appspot.com/o/Design%20sans%20titre.png?alt=media&token=76f2499c-5b6b-4944-92d9-554670461ae9"
+        },
+        "proskills": [
+            {
+                "title": "Communication",
+                "progress": 90
+            },
+            {
+                "title": "Sens de l'organisation",
+                "progress": 85
+
+            },
+            {
+                "title": "Sens de l'écoute",
+                "progress": 95
+            },
+            {
+                "title": "Créativité",
+                "progress": 75
+            },
+            {
+                "title": "Travail en équipe",
+                "progress": 85
+            },
+            {
+                "title": "Résolution de problèmes",
+                "progress": 95
+            },
+            {
+                "title": "Créativité",
+                "progress": 75
+            }
+        ],
+        "techskills": [
+            {
+                "title": "Analyse de systèmes d'information",
+                "progress": 95
+            },
+            {
+                "title": "CSS3",
+                "progress": 90
+            },
+            {
+                "title": "JavaScript",
+                "progress": 90
+            },
+            {
+                "title": "React",
+                "progress": 65
+            },
+            {
+                "title": "Node.js",
+                "progress": 50
+            },
+            {
+                "title": "Git",
+                "progress": 85
+            },
+            {
+                "title": "npm",
+                "progress": 80
+            },
+            {
+                "title": "Sass",
+                "progress": 67
+            }
+        ],
+        "toolsandtech": [
+            {
+                "icon": "fab fa-html5",
+                "name": "HTML5"
+            },
+            {
+                "icon": "fab fa-css3-alt text-4xl text-blue-500 mb-2",
+                "name": "CSS3"
+            },
+            {
+                "icon": "fab fa-js text-4xl text-yellow-400 mb-2",
+                "name": "JavaScript"
+            },
+            {
+                "icon": "fab fa-react text-4xl text-blue-400 mb-2",
+                "name": "React"
+            },
+            {
+                "icon": "fab fa-vuejs text-4xl text-green-500 mb-2",
+                "name": "Vue.js"
+            },
+            {
+                "icon": "fab fa-node-js text-4xl text-green-500 mb-2",
+                "name": "Node.js"
+            },
+            {
+                "icon": "fas fa-database text-4xl text-blue-300 mb-2",
+                "name": "MongoDB"
+            },
+            {
+                "icon": "fab fa-git-alt text-4xl text-orange-600 mb-2",
+                "name": "Git"
+            },
+            {
+                "icon": "fab fa-npm text-4xl text-red-500 mb-2",
+                "name": "npm"
+            },
+            {
+                "icon": "fab fa-sass text-4xl text-pink-500 mb-2",
+                "name": "Sass"
+            },
+            {
+                "icon": "fab fa-figma text-4xl text-purple-500 mb-2",
+                "name": "Figma"
+            },
+            {
+                "icon": "fas fa-terminal text-4xl text-gray-300 mb-2",
+                "name": "VS Code"
+            },
+            {
+                "icon": "fab fa-linux text-4xl text-white mb-2",
+                "name": "Linux"
+            },
+            {
+                "icon": "fab fa-python text-4xl text-blue-500 mb-2",
+                "name": "Python"
+            },
+            {
+                "icon": "fab fa-docker text-4xl text-blue-400 mb-2",
+                "name": "Docker"
+            },
+            {
+                "icon": "fas fa-cloud text-4xl text-gray-500 mb-2",
+                "name": "Cloud Computing"
+            },
+            {
+                "icon": "fas fa-database text-4xl text-blue-300 mb-2",
+                "name": "MySQL"
+            },
+            {
+                "icon": "fas fa-database text-4xl text-purple-500 mb-2",
+                "name": "PostgreSQL"
+            },
+            {
+                "icon": "fas fa-chart-line text-4xl text-green-500 mb-2",
+                "name": "Data Visualization"
+            }
+        ],
+        "languages": [
+            {
+                "title": "Français",
+                "progress": "95"
+            },
+            {
+                "title": "Anglais",
+                "progress": "80"
+            },
+            {
+                "title": "Wolof",
+                "progress": "90"
+            }
+        ],
+        "education": [
+            {
+                "degree": "Licence en Informatique",
+                "institution": "Université de Dakar",
+                "year": "2020"
+            },
+            {
+                "degree": "Master en Génie Logiciel",
+                "institution": "Université de Dakar",
+                "year": "2022"
+            },
+            {
+                "degree": "Bootcamp en Développement Web Full Stack",
+                "institution": "Dakar Tech Academy",
+                "year": "2023"
+            },
+            {
+                "degree": "Développeur JavaScript Certifié",
+                "institution": "JavaScript Institute",
+                "year": "2023"
+            }
+        ],
+        "experience": [
+            {
+                "jobTitle": "Ingénieur Logiciel",
+                "company": "Tech Solutions",
+                "year": "2023 - Présent",
+                "description": "Développement et maintenance d’applications web avec des frameworks et technologies JavaScript modernes."
+            },
+            {
+                "jobTitle": "Développeur Web",
+                "company": "Web Innovators",
+                "year": "2022 - 2023",
+                "description": "Création de sites web réactifs et conviviaux, axés sur la performance et l’accessibilité."
+            },
+            {
+                "jobTitle": "Développeur Full Stack Junior",
+                "company": "Startup Hub",
+                "year": "2021 - 2022",
+                "description": "Participation au développement d’applications full stack, en collaboration avec des équipes pluridisciplinaires pour livrer des logiciels de qualité."
+            }
+        ],
+        "projects": [
+            {
+                "title": "Site Portfolio",
+                "description": "Un site personnel présentant mes compétences, projets et parcours professionnel.",
+                "link": "https://mamadouhamadythiam.com"
+            },
+            {
+                "title": "Plateforme E-commerce",
+                "description": "Développement d’une plateforme e-commerce complète avec authentification utilisateur, gestion des produits et intégration de paiements.",
+                "link": "",
+                "technologies": [
+                    "React",
+                    "Node.js",
+                    "MongoDB"
+                ]
+            },
+            {
+                "title": "Application de Chat en Temps Réel",
+                "description": "Création d’une application de chat en temps réel utilisant WebSocket pour la messagerie instantanée et les notifications.",
+                "link": "",
+                "technologies": [
+                    "Node.js",
+                    "Socket.io",
+                    "Express"
+                ]
+            },
+            {
+                "title": "Plateforme de Blog",
+                "description": "Création d’une plateforme de blog permettant aux utilisateurs de créer, modifier et commenter des articles, avec un accent sur l’expérience utilisateur et le SEO.",
+                "link": "",
+                "technologies": [
+                    "React",
+                    "Node.js",
+                    "MongoDB"
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "title": "Développeur JavaScript Certifié",
+                "institution": "JavaScript Institute",
+                "year": "2023"
+            },
+            {
+                "title": "Bootcamp en Développement Web Full Stack",
+                "institution": "Dakar Tech Academy",
+                "year": "2023"
+            },
+            {
+                "title": "Certification en Design Web Responsive",
+                "institution": "FreeCodeCamp",
+                "year": "2022"
+            },
+            {
+                "title": "Certification en Algorithmes et Structures de Données JavaScript",
+                "institution": "FreeCodeCamp",
+                "year": "2022"
+            }
+        ],
+        "hobbies": [
+            "Lecture de blogs technologiques",
+            "Contribution à l’open source",
+            "Apprentissage de nouveaux langages de programmation",
+            "Exploration de nouvelles technologies",
+            "Voyages"
+        ],
+        "references": [
+            {
+                "name": "Dr. Aissatou Ndiaye",
+                "position": "Professeure en Informatique",
+                "institution": "Université de Dakar",
+                "email": ""
+            },
+            {
+                "name": "M. Mamadou Sow",
+                "position": "Ingénieur Logiciel Senior",
+                "company": "Tech Solutions",
+                "email": ""
+            },
+            {
+                "name": "Mme. Fatou Diop",
+                "position": "Cheffe de Projet",
+                "company": "Web Innovators",
+                "email": ""
+            }
+        ],
+        "interests": [
+            "Intelligence Artificielle",
+            "Accessibilité Web",
+            "Informatique en Nuage (Cloud Computing)",
+            "Cybersécurité",
+            "Technologie Blockchain"
+        ],
+        "volunteerExperience": [
+            {
+                "role": "Développeur Web Bénévole",
+                "organization": "Tech for Good",
+                "year": "2022 - Présent",
+                "description": "Contribution à des projets open source visant à améliorer l’accès aux technologies dans les communautés défavorisées."
+            },
+            {
+                "role": "Mentor",
+                "organization": "Dakar Tech Academy",
+                "year": "2023",
+                "description": "Accompagnement de développeurs débutants en développement web et bonnes pratiques en ingénierie logicielle."
+            },
+            {
+                "role": "Organisateur Communautaire",
+                "organization": "Dakar Coding Meetup",
+                "year": "2021 - 2022",
+                "description": "Organisation de meetups et d’ateliers de programmation pour encourager un apprentissage collaboratif entre développeurs locaux."
+            }
+        ],
+        "awards": [
+            {
+                "title": "Meilleure Application Web",
+                "organization": "Dakar Tech Awards",
+                "year": "2023",
+                "description": "Récompense pour le développement d’une application web innovante qui améliore l’expérience utilisateur et l’accessibilité."
+            },
+            {
+                "title": "Contribution Exceptionnelle à l’Open Source",
+                "organization": "Open Source Initiative",
+                "year": "2022",
+                "description": "Reconnaissance pour des contributions significatives à divers projets open source dans la communauté du développement web."
+            }
+        ],
+        "socialMedia": {
+            "twitter": "https://twitter.com/mamadouhamadythiam",
+            "facebook": "https://www.facebook.com/mamadouhamadythiam",
+            "instagram": "https://www.instagram.com/mamadouhamadythiam",
+            "youtube": "https://www.youtube.com/channel/mamadouhamadythiam",
+            "tiktok": "https://www.tiktok.com/@mamadouhamadythiam",
+            "github": "",
+            "linkedin": "https://www.linkedin.com/in/mamadouhamadythiam"
+        },
+        "labeling": {
+            "whoiam": "Qui suis-je ?",
+            "section": {
+                "hero": "Sur Moi",
+                "skills": {
+                    "name": "Mes Compétences",
+                    "proskills": "Compétences Professionnelles",
+                    "techskills": "Compétences Techniques",
+                    "toolsandtech": "Outils Technologies"
+                },
+                "projects": "Mes Projets",
+                "contact": "Entrer en Contact",
+                "experience": "Mon Expérience",
+                "certifications": "Certifications",
+                "hobbies": "Loisirs",
+                "references": "Références",
+                "interests": "Intérêts",
+                "volunteerExperience": "Expérience Bénévole",
+                "awards": "Récompenses"
+            }
+        }
+    },
+    "en": {
+        "menus": [
+            {
+                "title": "Home",
+                "ref": "home"
+            },
+            {
+                "title": "About",
+                "ref": "about"
+            },
+            {
+                "title": "Skills",
+                "ref": "skills"
+            },
+            {
+                "title": "Projects",
+                "ref": "projects"
+            },
+            {
+                "title": "Contact",
+                "ref": "contact"
+            }
+        ],
+        "hero": {
+            "name": "Mamadou Hamady THIAM",
+            "initials": "M. H. THIAM",
+            "age": 1993,
+            "start": 2023,
+            "profession": [
+                "Data Engineer Enthousiast",
+                "Confimed Fraud Data Analyst",
+                "Confimed Full Stack Web Developer"
+            ],
+            "location": "Dakar, Senegal",
+            "email": "dooro@thiamdooro.pro",
+            "phone": "+221 77 628 08 98",
+            "linkedin": "https://www.linkedin.com/in/dooro/",
+            "github": "https://github.com/baaratik93",
+            "whoiam": "I am a passionate software developer with a strong background in full stack web development and data engineering. I thrive on solving complex problems and creating efficient, scalable solutions. My expertise includes modern JavaScript frameworks, data analysis, and building robust applications that enhance user experience.",
+            "summary": "I am passionate about leveraging technology to solve real-world problems and continuously improving my skills in software development. I am eager to contribute to innovative projects and collaborate with like-minded professionals.",
+            "profilePicture": "https://media.licdn.com/dms/image/v2/D4E03AQEw5GZeKxCu_g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1722370004632?e=1758153600&v=beta&t=rSS6ZSbTmtq7eOmUS2T_eqjJBRpalNZqdRmMg1lXp5o",
+            "profilePictureAlt": "https://firebasestorage.googleapis.com/v0/b/arcoden-f732e.appspot.com/o/Design%20sans%20titre.png?alt=media&token=76f2499c-5b6b-4944-92d9-554670461ae9"
+        },
+        "proskills": [
+            {
+                "title": "Communication",
+                "progress": 90
+            },
+            {
+                "title": "Organizational Skills",
+                "progress": 85
+            },
+            {
+                "title": "Listening Skills",
+                "progress": 95
+            },
+            {
+                "title": "Teamwork",
+                "progress": 85
+            },
+            {
+                "title": "Problem Solving",
+                "progress": 95
+            },
+            {
+                "title": "Creativity",
+                "progress": 75
+            }
+        ],
+        "techskills": [
+            {
+                "title": "Information Systems Analysis",
+                "progress": 95
+            },
+            {
+                "title": "CSS3",
+                "progress": 90
+            },
+            {
+                "title": "JavaScript",
+                "progress": 90
+            },
+            {
+                "title": "React",
+                "progress": 65
+            },
+            {
+                "title": "Node.js",
+                "progress": 50
+            },
+            {
+                "title": "Git",
+                "progress": 85
+            },
+            {
+                "title": "npm",
+                "progress": 80
+            },
+            {
+                "title": "Sass",
+                "progress": 67
+            }
+        ],
+        "toolsandtech": [
+            {
+                "icon": "fab fa-html5",
+                "name": "HTML5"
+            },
+            {
+                "icon": "fab fa-css3-alt text-4xl text-blue-500 mb-2",
+                "name": "CSS3"
+            },
+            {
+                "icon": "fab fa-js text-4xl text-yellow-400 mb-2",
+                "name": "JavaScript"
+            },
+            {
+                "icon": "fab fa-react text-4xl text-blue-400 mb-2",
+                "name": "React"
+            },
+            {
+                "icon": "fab fa-vuejs text-4xl text-green-500 mb-2",
+                "name": "Vue.js"
+            },
+            {
+                "icon": "fab fa-node-js text-4xl text-green-500 mb-2",
+                "name": "Node.js"
+            },
+            {
+                "icon": "fas fa-database text-4xl text-blue-300 mb-2",
+                "name": "MongoDB"
+            },
+            {
+                "icon": "fab fa-git-alt text-4xl text-orange-600 mb-2",
+                "name": "Git"
+            },
+            {
+                "icon": "fab fa-npm text-4xl text-red-500 mb-2",
+                "name": "npm"
+            },
+            {
+                "icon": "fab fa-sass text-4xl text-pink-500 mb-2",
+                "name": "Sass"
+            },
+            {
+                "icon": "fab fa-figma text-4xl text-purple-500 mb-2",
+                "name": "Figma"
+            },
+            {
+                "icon": "fas fa-terminal text-4xl text-gray-300 mb-2",
+                "name": "VS Code"
+            },
+            {
+                "icon": "fab fa-linux text-4xl text-white mb-2",
+                "name": "Linux"
+            },
+            {
+                "icon": "fab fa-python text-4xl text-blue-500 mb-2",
+                "name": "Python"
+            },
+            {
+                "icon": "fab fa-docker text-4xl text-blue-400 mb-2",
+                "name": "Docker"
+            },
+            {
+                "icon": "fas fa-cloud text-4xl text-gray-500 mb-2",
+                "name": "Cloud Computing"
+            },
+            {
+                "icon": "fas fa-database text-4xl text-blue-300 mb-2",
+                "name": "MySQL"
+            },
+            {
+                "icon": "fas fa-database text-4xl text-purple-500 mb-2",
+                "name": "PostgreSQL"
+            },
+            {
+                "icon": "fas fa-chart-line text-4xl text-green-500 mb-2",
+                "name": "Data Visualization"
+            }
+        ],
+        "languages": [
+            {
+                "title": "French",
+                "progress": "95"
+            },
+            {
+                "title": "English",
+                "progress": "80"
+            },
+            {
+                "title": "Wolof",
+                "progress": "90"
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor's in Computer Science",
+                "institution": "University of Dakar",
+                "year": "2020"
+            },
+            {
+                "degree": "Master's in Software Engineering",
+                "institution": "University of Dakar",
+                "year": "2022"
+            },
+            {
+                "degree": "Full Stack Web Development Bootcamp",
+                "institution": "Dakar Tech Academy",
+                "year": "2023"
+            },
+            {
+                "degree": "Certified JavaScript Developer",
+                "institution": "JavaScript Institute",
+                "year": "2023"
+            }
+        ],
+        "experience": [
+            {
+                "jobTitle": "Software Engineer",
+                "company": "Tech Solutions",
+                "year": "2023 - Present",
+                "description": "Developing and maintaining web applications using modern JavaScript frameworks and technologies."
+            },
+            {
+                "jobTitle": "Web Developer",
+                "company": "Web Innovators",
+                "year": "2022 - 2023",
+                "description": "Created responsive and user-friendly websites, focusing on performance and accessibility."
+            },
+            {
+                "jobTitle": "Junior Full Stack Developer",
+                "company": "Startup Hub",
+                "year": "2021 - 2022",
+                "description": "Assisted in the development of full stack applications, collaborating with cross-functional teams to deliver high-quality software."
+            }
+        ],
+        "projects": [
+            {
+                "title": "Portfolio Website",
+                "description": "A personal portfolio website showcasing my skills, projects, and professional journey.",
+                "link": "https://mamadouhamadythiam.com"
+            },
+            {
+                "title": "E-commerce Platform",
+                "description": "Developed a full-featured e-commerce platform with user authentication, product management, and payment integration.",
+                "link": "",
+                "technologies": [
+                    "React",
+                    "Node.js",
+                    "MongoDB"
+                ]
+            },
+            {
+                "title": "Real-time Chat Application",
+                "description": "Built a real-time chat application using WebSocket for instant messaging and notifications.",
+                "link": "",
+                "technologies": [
+                    "Node.js",
+                    "Socket.io",
+                    "Express"
+                ]
+            },
+            {
+                "title": "Blog Platform",
+                "description": "Created a blog platform allowing users to create, edit, and comment on posts, with a focus on user experience and SEO.",
+                "link": "",
+                "technologies": [
+                    "React",
+                    "Node.js",
+                    "MongoDB"
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "title": "Certified JavaScript Developer",
+                "institution": "JavaScript Institute",
+                "year": "2023"
+            },
+            {
+                "title": "Full Stack Web Development Bootcamp",
+                "institution": "Dakar Tech Academy",
+                "year": "2023"
+            },
+            {
+                "title": "Responsive Web Design Certification",
+                "institution": "FreeCodeCamp",
+                "year": "2022"
+            },
+            {
+                "title": "JavaScript Algorithms and Data Structures Certification",
+                "institution": "FreeCodeCamp",
+                "year": "2022"
+            }
+        ],
+        "hobbies": [
+            "Reading Tech Blogs",
+            "Contributing to Open Source",
+            "Learning New Programming Languages",
+            "Exploring New Technologies",
+            "Traveling"
+        ],
+        "references": [
+            {
+                "name": "Dr. Aissatou Ndiaye",
+                "position": "Professor of Computer Science",
+                "institution": "University of Dakar",
+                "email": ""
+            },
+            {
+                "name": "Mr. Mamadou Sow",
+                "position": "Senior Software Engineer",
+                "company": "Tech Solutions",
+                "email": ""
+            },
+            {
+                "name": "Ms. Fatou Diop",
+                "position": "Project Manager",
+                "company": "Web Innovators",
+                "email": ""
+            }
+        ],
+        "interests": [
+            "Artificial Intelligence",
+            "Web Accessibility",
+            "Cloud Computing",
+            "Cybersecurity",
+            "Blockchain Technology"
+        ],
+        "volunteerExperience": [
+            {
+                "role": "Volunteer Web Developer",
+                "organization": "Tech for Good",
+                "year": "2022 - Present",
+                "description": "Contributing to open source projects aimed at improving technology access in underserved communities."
+            },
+            {
+                "role": "Mentor",
+                "organization": "Dakar Tech Academy",
+                "year": "2023",
+                "description": "Mentoring aspiring developers in web development and software engineering best practices."
+            },
+            {
+                "role": "Community Organizer",
+                "organization": "Dakar Coding Meetup",
+                "year": "2021 - 2022",
+                "description": "Organizing coding meetups and workshops to foster a collaborative learning environment for local developers."
+            }
+        ],
+        "awards": [
+            {
+                "title": "Best Web Application",
+                "organization": "Dakar Tech Awards",
+                "year": "2023",
+                "description": "Awarded for developing an innovative web application that enhances user experience and accessibility."
+            },
+            {
+                "title": "Outstanding Contribution to Open Source",
+                "organization": "Open Source Initiative",
+                "year": "2022",
+                "description": "Recognized for significant contributions to various open source projects in the web development community."
+            }
+        ],
+        "socialMedia": {
+            "twitter": "https://twitter.com/mamadouhamadythiam",
+            "facebook": "https://www.facebook.com/mamadouhamadythiam",
+            "instagram": "https://www.instagram.com/mamadouhamadythiam",
+            "youtube": "https://www.youtube.com/channel/mamadouhamadythiam",
+            "tiktok": "https://www.tiktok.com/@mamadouhamadythiam",
+            "github": "",
+            "linkedin": "https://www.linkedin.com/in/mamadouhamadythiam"
+        },
+        "labeling": {
+            "whoiam": "Who am I?",
+            "section": {
+                "hero": "About Me",
+                "skills": {
+                    "name": "My Skills",
+                    "proskills": "Professional Skills",
+                    "techskills": "Technical Skills",
+                    "toolsandtech": "Tools Technologies"
+                },
+                "projects": "My Projects",
+                "contact": "Get in Touch",
+                "experience": "My Experience",
+                "certifications": "Certifications",
+                "hobbies": "Hobbies",
+                "references": "References",
+                "interests": "Interests",
+                "volunteerExperience": "Volunteer Experience",
+                "awards": "Awards"
+            }
+        }
+    }
+}
