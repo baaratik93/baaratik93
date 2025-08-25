@@ -10,7 +10,7 @@ Je suis un développeur JavaScript freelance passionné par les technologies web
 - 🗄️ MongoDB, Firebase
 
 ## Projets récents
-- [arcoden](https://arcoden.netlify.app) : Un blog en cours de développement
+- [arcoden](https://blog.thiamdooro.pro) : Un blog en cours de développement
 - [manuscria](https://t.me/dooro93) : Une application d'intélligence artificielle de conversion de texte manuscrite (en cours d'apprentissage)
 
 ## Technologies
