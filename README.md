@@ -1,39 +1,81 @@
 # Salut, je suis Mamadou Hamady THIAM 👋
 
+Analyste Data & Fraude | Développeur JavaScript | Freelance  
+Passionné par la **data**, la **détection de fraude**, et la **création de solutions digitales fiables, scalables et performantes**.
 
-Je suis un développeur JavaScript freelance passionné par les technologies web modernes et la création d'applications performantes et faciles à utiliser. 
+Grâce à une double compétence **Data & Développement**, je conçois des solutions complètes allant de l’analyse des données transactionnelles à la mise en production d’outils métiers.
 
-## Compétences techniques
-- 💻 JavaScript, Node.js, React
-- 🎨 HTML/CSS, Sass, Bootstrap
-- 🔧 Git, npm, Webpack, Babel
-- 🗄️ MongoDB, Firebase
+---
 
-## Projets récents
-- [arcoden](https://blog.thiamdooro.pro) : Un merveilleux blog
-- [manuscria](https://t.me/dooro93) : Une application d'intélligence artificielle de conversion de texte manuscrite (en cours d'apprentissage)
+## 🧠 Expériences professionnelles – Fraud & Data Analysis
 
-## Technologies
+### 🔐 Fraud Analyst & Compliance – Intech Group SAS
+- Analyse, alerte et monitoring des transactions frauduleuses
+- Détection de patterns de fraude (cartes, mobile money, e-commerce)
+- Gestion des chargebacks, remboursements et débits erronés
+- Vérification KYC et conformité des partenaires
+- Déclaration et suivi des sous-marchands auprès des banques
+- Revenue assurance et contrôle des flux financiers
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Vite.js](https://img.shields.io/badge/Vite.js-2.5.6-blueviolet?style=for-the-badge&logo=vite)](https://vitejs.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Excel](https://img.shields.io/badge/Excel-16A94D?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Figma](https://img.shields.io/badge/Figma-figma-orange?style=for-the-badge&logo=figma)](https://figma.com)
+### 📊 Big Data Fraud Analyst – OFMS
+- Analyse de données transactionnelles à grande échelle
+- Automatisation des règles de détection et des alertes
+- Supervision des comptes dormants
+- Réconciliation des cashbacks promotionnels
+- Analyse comportementale des fraudeurs
 
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green.svg?logo=mongodb)](https://www.mongodb.com/)
-[![Python](https://img.shields.io/badge/Python-3.9.0-blue?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-390/)
-[![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&style=flat)](https://www.notion.so/)
+---
 
-## Contact
+## 🛠️ Compétences & Outils
 
-📫 Contactez-moi sur [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bit.ly/dooro-in)](https://bit.ly/dooro-in)
-, par [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:dooro.mah@gmail.com)
- ou sur [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/776280898)
-.
+### 💻 Développement Web & Logiciel
+- JavaScript (ES6+)
+- Node.js
+- React, Vue.js, Next.js
+- HTML5, CSS3, Sass, Bootstrap, Tailwind
+- API REST
+- Git & GitHub
+- Firebase
+- MongoDB
+- Firestore
+- VS Code
+- Figma
 
+---
+
+### 📈 Data, Big Data & Fraud Analytics
+- Python (analyse & automatisation)
+- SQL
+- Excel avancé (reporting & analyse)
+- Data cleaning & data quality
+- Monitoring & alerting
+- Détection de fraude
+- Revenue Assurance
+
+#### ⚙️ Outils Big Data & Infrastructure
+- Apache Spark
+- Hadoop
+- Elasticsearch
+- Docker
+
+---
+
+## 🚀 Projets récents
+
+- **[THIAMDOOROBLOG](https://blog.thiamdooro.pro)**  
+  Blog technique sur le développement, la data et la technologie
+
+- **[PORTFOLIO](https://www.thiamdooro.pro)**  
+  Mon espace personel
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn : https://bit.ly/dooro-in
+- 📧 Email : thiam.mamadouhamady@gmail.com  
+- 📱 WhatsApp : https://wa.me/776280898  
+
+---
+
+⭐ *Ouvert aux opportunités et collaborations en Data, Big Data, Fraud Analysis, Automatisation et Développement Web.*
